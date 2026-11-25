@@ -1,0 +1,13 @@
+TP02 — REPONSES AUX QUESTIONS
+
+1. Quelle est la famille et le style de la police ?
+La famille est Arial et le style est Regular.
+
+2. Combien de glyphes contient-elle ?
+Elle contient 4503 glyphes.
+
+3. Combien de caractères Unicode sont indiqués ?
+Le script indique 3361 caractères Unicode.
+
+4. En une phrase, que permet de vérifier ce script ?
+Il permet d’inspecter un fichier de police et de vérifier ses principales informations (famille, style, glyphes, caractères Unicode et tables) sans modifier le fichier.

@@ -1,0 +1,33 @@
+INSPECTION DE LA POLICE
+Fichier : C:\Windows\Fonts\arial.ttf
+Famille : Arial
+Style : Regular
+Nombre de glyphes : 4503
+Nombre de caractères Unicode : 3361
+Tables du fichier :
+- DSIG
+- GDEF
+- GPOS
+- GSUB
+- GlyphOrder
+- JSTF
+- LTSH
+- OS/2
+- PCLT
+- VDMX
+- cmap
+- cvt
+- fpgm
+- gasp
+- glyf
+- hdmx
+- head
+- hhea
+- hmtx
+- kern
+- loca
+- maxp
+- meta
+- name
+- post
+- prep
